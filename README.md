@@ -1,2 +1,2 @@
-# ISTA HAY RIAD - Institute website
+# ISTA HAY RIAD - <span style="color: green"> Institute website </span> 
  Creating a full-stack website for an Institute, the goal is to identify most of their information, make a system for students to look at their schedules, and give the admin the access to change and add classes’ time schedules. Also heading to make a Python web scraper script to get blog posts of news from the main website of OFPPT and render them to the website.
